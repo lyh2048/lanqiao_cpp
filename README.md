@@ -8,6 +8,7 @@ My C++ solutions for [lanqiao](https://www.lanqiao.cn/) courses.
 | encryption            | [C++ 实现常见加密算法](https://www.lanqiao.cn/courses/654)   |
 | C++11&14 高速上手教程 | [C++11&14 高速上手教程](https://www.lanqiao.cn/courses/605)  |
 | rtti                  | [C++ 实现高性能 RTTI 库](https://www.lanqiao.cn/courses/658) |
+| match_template        | [OpenCV 与 C++ 实现模板匹配](https://www.lanqiao.cn/courses/716) |
 
 To be continued......
 
