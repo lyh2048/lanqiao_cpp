@@ -10,6 +10,7 @@ My C++ solutions for [lanqiao](https://www.lanqiao.cn/) courses.
 | rtti                  | [C++ 实现高性能 RTTI 库](https://www.lanqiao.cn/courses/658) |
 | match_template        | [OpenCV 与 C++ 实现模板匹配](https://www.lanqiao.cn/courses/716) |
 | object_tracking       | [C++ 实现运动目标追踪](https://www.lanqiao.cn/courses/560)   |
+| monitor               | [C++ 实现监控和运动检测](https://www.lanqiao.cn/courses/671) |
 
 To be continued......
 
